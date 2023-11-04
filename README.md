@@ -17,5 +17,8 @@ That example code operation will send 2 different random integer that separated 
 > "A" for random data with 0 to 50 different value   
 > "B" for random data with 0 to 500 different value 
 
-> [!NOTE]
+> [!WARNING]
+> Charts needs to refresh in a periodic time for maintain performance in this example is 1 day period you should change it with your different use
+
+> [!WARNING]
 > Charts needs to refresh in a periodic time for maintain performance in this example is 1 day period you should change it with your different use
