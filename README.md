@@ -7,7 +7,7 @@ Labview Arduino Analog Interface By Graphical Chart With Serial Port
 
 <img width="1047" alt="2" src="https://github.com/amirsayyad7686/Arduino_Labview_Serial/assets/78236642/b8e5ab26-bf5e-4df5-ae3d-5670735ea368">
 
-## Functions
+## Functionality
 
 First connect arduino serial port then select COM port before start app 
 
@@ -16,3 +16,6 @@ That example code operation will send 2 different random integer that separated 
 > [!NOTE]
 > "A" for random data with 0 to 50 different value   
 > "B" for random data with 0 to 500 different value 
+
+> [!NOTE]
+> Charts needs to refresh in a periodic time for maintain performance in this example is 1 day period you should change it with your different use
