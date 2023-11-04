@@ -15,5 +15,4 @@ That example code operation will send 2 different random integer that separated 
 
 > [!NOTE]
 > "A" for random data with 0 to 50 different value 
-
 > "B" for random data with 0 to 500 different value 
