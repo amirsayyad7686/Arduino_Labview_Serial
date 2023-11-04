@@ -21,4 +21,4 @@ That example code operation will send 2 different random integer that separated 
 > Charts needs to refresh in a periodic time for maintain performance in this example is 1 day period you should change it with your different use
 
 > [!WARNING]
-> Charts needs to refresh in a periodic time for maintain performance in this example is 1 day period you should change it with your different use
+> Loop timer in labview should be more than arduino loop delay
